@@ -28,4 +28,3 @@ A simple, lightweight To-Do List application built with vanilla JavaScript. This
 - `index.html`: The main structure of the application.
 - `style.css`: Styling for the application.
 - `script.js`: Logic for handling tasks and LocalStorage interactions.
-
